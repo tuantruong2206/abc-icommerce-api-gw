@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: nab-icommerce-api-gateway
+  cloud:
+    config:
+      uri: http://localhost:8888
